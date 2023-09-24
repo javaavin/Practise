@@ -1,0 +1,31 @@
+[33mcommit 06622764ac580207b4c1fae1c6a03cfc7016e8b8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: javaavin <java.avin@gmail.com>
+Date:   Sun Sep 24 07:33:45 2023 +0530
+
+    Revert "Updating yml"
+    
+    This reverts commit fe6246807790dac7a36d58c1b0d0b1361c5a2a82.
+
+[33mcommit 4df34277a9d60de4ac369c61daf1789d1a3b8d51[m
+Author: javaavin <java.avin@gmail.com>
+Date:   Sun Sep 24 07:30:00 2023 +0530
+
+    updating yml
+
+[33mcommit 73c9fe10660dadedd1559cc608781d8460fabae2[m
+Author: javaavin <java.avin@gmail.com>
+Date:   Sun Sep 24 00:42:07 2023 +0530
+
+    commiting tb.yml
+
+[33mcommit dfc88e35d60f74a7865b6d37f599b2358826b0d1[m
+Author: javaavin <java.avin@gmail.com>
+Date:   Sun Sep 24 00:35:26 2023 +0530
+
+    commiting the modified files
+
+[33mcommit ecb6e470756b3969c25db9acdfd40905a6fc75ec[m
+Author: javaavin <java.avin@gmail.com>
+Date:   Sun Sep 24 00:29:23 2023 +0530
+
+    my first commit
